@@ -45,7 +45,7 @@
             // 
             // bValorarNumeros
             // 
-            this.bValorarNumeros.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.bValorarNumeros.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.bValorarNumeros.Location = new System.Drawing.Point(336, 93);
             this.bValorarNumeros.Name = "bValorarNumeros";
             this.bValorarNumeros.Size = new System.Drawing.Size(135, 90);
