@@ -45,12 +45,13 @@
             // 
             // bValorarNumeros
             // 
-            this.bValorarNumeros.Location = new System.Drawing.Point(336, 143);
+            this.bValorarNumeros.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.bValorarNumeros.Location = new System.Drawing.Point(336, 93);
             this.bValorarNumeros.Name = "bValorarNumeros";
-            this.bValorarNumeros.Size = new System.Drawing.Size(135, 40);
+            this.bValorarNumeros.Size = new System.Drawing.Size(135, 90);
             this.bValorarNumeros.TabIndex = 1;
             this.bValorarNumeros.Text = "VALORAR NÚMEROS";
-            this.bValorarNumeros.UseVisualStyleBackColor = true;
+            this.bValorarNumeros.UseVisualStyleBackColor = false;
             this.bValorarNumeros.Click += new System.EventHandler(this.bValorarNumeros_Click);
             // 
             // tDato1
